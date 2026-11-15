@@ -1,0 +1,1 @@
+created in eclipse the game simulates a farm with weather and animals that try and eat your food as a farmer you must survive by selling crops making money and paying taxes every year the taxes raise everey yewar making the game more difficult it is a text based game
